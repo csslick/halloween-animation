@@ -18,6 +18,7 @@
   font-size: 75px;
   opacity: 0;
   animation: title 5s 1 forwards 2s;
+  text-indent: 0;
 }
 
 @keyframes title {
